@@ -1,7 +1,18 @@
+
+# --- Known Vulnerable Packages (CVE) ---
+Django==2.2.10          # CVE-2020-9402 
+requests==2.19.1         # CVE-2018-18074 
+pyyaml==5.1             # CVE-2017-18342 
+urllib3==1.24.2        # CVE-2019-11324
+flask==0.12.2          # CVE-2018-1000656
+jinja2==2.10           # CVE-2019-10906
+markdown==2.6.11       # CVE-2018-1002205
+werkzeug==0.16.1       # CVE-2020-28724
+
+# --- General Project Dependencies ---
 asgiref==3.8.1
 certifi==2022.9.14
 distlib==0.3.8
-Django==2.2.10  # CVE-2020-9402 - SQL Injection Risk
 filelock==3.14.0
 platformdirs==4.2.2
 sqlparse==0.4.2
@@ -11,6 +22,4 @@ httplib2==0.17.4
 cryptography==35.0.0
 passeo==1.0.4
 ecdsa==0.18.0b1
-requests==2.19.1  # CVE-2018-18074 - Open Redirect
 pyotp==2.9.0
-pyyaml==5.1  # CVE-2017-18342 - Arbitrary Code Execution

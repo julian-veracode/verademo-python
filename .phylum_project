@@ -1,7 +1,7 @@
 id: 6c37f7d1-5d06-4523-925e-f10ada9537b4
 name: verademo-python
-created_at: 2025-07-01T10:17:46.165464-04:00
+created_at: 2025-07-01T10:53:21.732352-04:00
 group_name: null
 depfiles:
-- path: requirements.txt
+- path: ./requirements.txt
   type: pip
