@@ -1,6 +1,8 @@
 
+veracode-firewall-demo==0.1.0
+
 # --- Known Vulnerable Packages (CVE) ---
-Django==2.2.10          # CVE-2020-9402 
+Django==4.2.13          
 requests==2.19.1         # CVE-2018-18074 
 pyyaml==5.1             # CVE-2017-18342 
 urllib3==1.24.2        # CVE-2019-11324
