@@ -17,18 +17,62 @@
   },
   "default": {
     "flask": {
-      "hashes": [
-        "sha256:dummy1"
-      ],
+      "version": "==1.1.2",
       "index": "pypi",
-      "version": "==1.1.2"
+      "markers": "",
+      "hashes": [
+        "sha256:dummyhash1"
+      ]
     },
     "django": {
-      "hashes": [
-        "sha256:dummy2"
-      ],
+      "version": "==2.2.9",
       "index": "pypi",
-      "version": "==2.2.9"
+      "markers": "",
+      "hashes": [
+        "sha256:dummyhash2"
+      ]
     },
     "requests": {
-      "h
+      "version": "==2.19.1",
+      "index": "pypi",
+      "markers": "",
+      "hashes": [
+        "sha256:dummyhash3"
+      ]
+    },
+    "pillow": {
+      "version": "==6.2.1",
+      "index": "pypi",
+      "markers": "",
+      "hashes": [
+        "sha256:dummyhash4"
+      ]
+    },
+    "pyyaml": {
+      "version": "==5.3",
+      "index": "pypi",
+      "markers": "",
+      "hashes": [
+        "sha256:dummyhash5"
+      ]
+    }
+  },
+  "develop": {
+    "pytest": {
+      "version": "==5.4.3",
+      "index": "pypi",
+      "markers": "",
+      "hashes": [
+        "sha256:dummyhash6"
+      ]
+    },
+    "black": {
+      "version": "==19.10b0",
+      "index": "pypi",
+      "markers": "",
+      "hashes": [
+        "sha256:dummyhash7"
+      ]
+    }
+  }
+}
