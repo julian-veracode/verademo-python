@@ -1,0 +1,49 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "dummmyhash000000000000000000000000000000000000000000000000000000"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        }
+    },
+    "default": {
+        "flask": {
+            "version": "==1.1.2",
+            "hashes": [
+                "sha256:dummy1",
+                "sha256:dummy2"
+            ]
+        },
+        "django": {
+            "version": "==2.2.9",
+            "hashes": [
+                "sha256:dummy3",
+                "sha256:dummy4"
+            ]
+        },
+        "requests": {
+            "version": "==2.19.1",
+            "hashes": [
+                "sha256:dummy5",
+                "sha256:dummy6"
+            ]
+        },
+        "pillow": {
+            "version": "==6.2.1",
+            "hashes": [
+                "sha256:dummy7",
+                "sha256:dummy8"
+            ]
+        },
+        "pyyaml": {
+            "version": "==5.3",
+            "hashes": [
+                "sha256:dummy9",
+                "sha256:dummy10"
+            ]
+        }
+    },
+    "develop": {}
+}
